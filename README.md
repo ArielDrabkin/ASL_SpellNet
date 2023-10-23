@@ -1,4 +1,4 @@
-# American Sign Language Final Project Report MS3
+# American Sign Language
 
 American Sign Language Final Project README
 
@@ -13,6 +13,7 @@ We implemented two models for ASL recognition: a baseline LSTM model and a more 
 The repository is organized into the following folders:
 
 - `data`
+- `deployment`
 - `models`:
     * LSTM_model 
     * LSTM_skip
